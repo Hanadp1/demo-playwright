@@ -5,7 +5,7 @@ import com.microsoft.playwright.options.WaitForSelectorState;
 
 public class LoginPage {
     private final Page page;
-
+//comment added by hanady
     // Locators
     private static final String USERNAME_INPUT = "input[name='username']";
     private static final String PASSWORD_INPUT = "input[name='password']";

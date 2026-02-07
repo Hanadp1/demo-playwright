@@ -5,7 +5,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
-
+// changes added by hanady..
 public class BaseTest {
     protected Playwright playwright;
     protected Browser browser;
